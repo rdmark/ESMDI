@@ -1,7 +1,7 @@
 # ESMDI
-ESMDI is a console application which enables you to transfer sound samples to and from a sampler using the SMDI protocol, written by Erik Jansson.
+ESMDI is a console application which enables you to transfer sound samples to and from a sampler using the SMDI protocol.
 
-It is based on the [OpenSMDI](https://github.com/rdmark/OpenSMDI) library written by Christian Nowak.
+It is created by Erik Jansson, and based on the [OpenSMDI](https://github.com/rdmark/OpenSMDI) library written by Christian Nowak.
 
 ESMDI is currently a Linux-only application.
 
