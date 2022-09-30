@@ -5,10 +5,9 @@
 #include <string.h>
 #include <stdlib.h>
 #include <pthread.h>
+#include <popt.h>
 #include "smdi.h"
 #include "smdistatic.h"
-
-#include "popt-1.6.4/popt.h"
 
 
 #define VERSION_MAJOR 0
