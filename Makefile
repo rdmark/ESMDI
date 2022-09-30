@@ -1,5 +1,5 @@
 
-OPENSMDI=opensmdi.patched
+OPENSMDI=opensmdi
 
 default: esmdi-static
 
