@@ -1,5 +1,5 @@
 # SMDI
-SMCDI - SCSI Musical Data Interchange - is a protocol for exchanging data between music devices over SCSI och MIDI hardware interfaces. The standard was defined by [Peavey](http://www.peavey.com) some time around 1990.
+SMDI - SCSI Musical Data Interchange - is a protocol for exchanging data between music devices over SCSI och MIDI hardware interfaces. The standard was defined by [Peavey](http://www.peavey.com) some time around 1990.
 
 Its primary use is to enable musicians to transfer sample data (sampled sounds) back and forth between sound samplers and computers. A sound sampler is a device which can sample a sound and play it back, possibly using effects, filters, etc. It's a tool used in every professional recording studio. Common sound samplers supporting SMDI are manufactured by AKAI, Roland, EMU, Yamaha etc.
 
