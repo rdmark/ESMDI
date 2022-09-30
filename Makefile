@@ -1,3 +1,5 @@
+# Modify LIBDIR to match the location of user libraries on your system
+# LIBDIR=/usr/lib/x86_64-linux-gnu
 LIBDIR=/usr/lib/arm-linux-gnueabihf
 OPENSMDI=opensmdi
 
