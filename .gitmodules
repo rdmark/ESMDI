@@ -1,0 +1,4 @@
+[submodule "opensmdi"]
+	path = opensmdi
+	url = https://github.com/rdmark/OpenSMDI.git
+	branch = esmdi_patches
